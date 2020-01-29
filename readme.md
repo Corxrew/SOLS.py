@@ -1,1 +1,1 @@
-# All solutions of the courses I have undertaken in Python
+# Solutions to all of the courses I have undertaken in Python
